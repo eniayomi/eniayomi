@@ -1,5 +1,8 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=eniayomi.eniayomi) [![Github](https://img.shields.io/github/followers/eniayomi?label=Follow&style=social)](https://github.com/eniayomi)
+
+
 ### Hi there 👋
-- ⚡ Not sure what i'm supposed to type here...
+
 <!--
 **eniayomi/eniayomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
